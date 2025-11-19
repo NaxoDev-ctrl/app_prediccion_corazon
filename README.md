@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Descargar dataset
-👉 **[Synthetic Heart Disease Prediction Dataset - Kaggle](https://www.kaggle.com/datasets/mragpavank/synthetic-heart-disease-prediction)**
+👉 **[Synthetic Heart Disease Prediction Dataset - Kaggle](https://www.kaggle.com/datasets/miadul/heat-disease-predication-dataset)**
 
 Guardar como: `data/heart_disease.csv`
 
