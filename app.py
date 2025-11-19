@@ -155,7 +155,3 @@ if st.button("🔍 PREDECIR RIESGO", type="primary", use_container_width=True):
         
         ⚠️ **Disclaimer:** Herramienta de apoyo. NO reemplaza diagnóstico médico profesional.
         """)
-
-# FOOTER
-st.markdown("---")
-st.caption("🏥 Proyecto académico - Universidad de Los Lagos | Red Neuronal para Predicción Cardiovascular")
